@@ -1,0 +1,22 @@
+export const articulosIniciales = [
+  { codigo: 'DES-01', nombre: 'Arroz grado 2 (1 kg)', marca: 'Tucapel', tipo: 'Despensa', precio: 1390, stock: 140 },
+  { codigo: 'DES-02', nombre: 'Porotos tórtola (1 kg)', marca: 'Wasil', tipo: 'Despensa', precio: 2990, stock: 6 },
+  { codigo: 'DES-03', nombre: 'Lentejas (1 kg)', marca: 'Wasil', tipo: 'Despensa', precio: 2290, stock: 52 },
+  { codigo: 'DES-04', nombre: 'Harina sin polvos (1 kg)', marca: 'Selecta', tipo: 'Despensa', precio: 1190, stock: 0 },
+  { codigo: 'LYH-01', nombre: 'Leche semidescremada (1 L)', marca: 'Colún', tipo: 'Lácteos y Huevos', precio: 1090, stock: 210 },
+  { codigo: 'LYH-02', nombre: 'Huevos blancos (bandeja x12)', marca: 'Santa Marta', tipo: 'Lácteos y Huevos', precio: 3490, stock: 9 },
+  { codigo: 'LYH-03', nombre: 'Manjar (1 kg)', marca: 'Nestlé', tipo: 'Lácteos y Huevos', precio: 3990, stock: 38 },
+  { codigo: 'LYH-04', nombre: 'Quesillo (250 g)', marca: 'Soprole', tipo: 'Lácteos y Huevos', precio: 2190, stock: 0 },
+  { codigo: 'PAN-01', nombre: 'Marraqueta (kg)', marca: 'MartWall', tipo: 'Panadería', precio: 2190, stock: 45 },
+  { codigo: 'PAN-02', nombre: 'Hallulla (kg)', marca: 'MartWall', tipo: 'Panadería', precio: 2190, stock: 40 },
+  { codigo: 'PAN-03', nombre: 'Pan de molde integral', marca: 'Ideal', tipo: 'Panadería', precio: 2590, stock: 3 },
+  { codigo: 'PAN-04', nombre: 'Queque de vainilla', marca: 'MartWall', tipo: 'Panadería', precio: 2990, stock: 18 },
+  { codigo: 'BEB-01', nombre: 'Té negro (100 bolsitas)', marca: 'Supremo', tipo: 'Bebestibles', precio: 2790, stock: 64 },
+  { codigo: 'BEB-02', nombre: 'Jugo en polvo sabor naranja', marca: 'Zuko', tipo: 'Bebestibles', precio: 290, stock: 320 },
+  { codigo: 'BEB-03', nombre: 'Bebida cola (3 L)', marca: 'Coca-Cola', tipo: 'Bebestibles', precio: 2890, stock: 7 },
+  { codigo: 'BEB-04', nombre: 'Agua mineral sin gas (1,6 L)', marca: 'Benedictino', tipo: 'Bebestibles', precio: 890, stock: 150 },
+  { codigo: 'AYH-01', nombre: 'Lavaloza (750 ml)', marca: 'Quix', tipo: 'Aseo y Hogar', precio: 1690, stock: 58 },
+  { codigo: 'AYH-02', nombre: 'Cloro gel (900 ml)', marca: 'Clorox', tipo: 'Aseo y Hogar', precio: 1390, stock: 4 },
+  { codigo: 'AYH-03', nombre: 'Papel higiénico (12 rollos)', marca: 'Confort', tipo: 'Aseo y Hogar', precio: 5990, stock: 70 },
+  { codigo: 'AYH-04', nombre: 'Detergente en polvo (3 kg)', marca: 'Omo', tipo: 'Aseo y Hogar', precio: 8490, stock: 0 }
+];
